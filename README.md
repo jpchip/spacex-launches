@@ -14,5 +14,5 @@ The launches component loads and displays all the launches in a table. We'd like
 
 - Display name, flight number, and date for each launch
 - Sorted from newest to oldest (date_utc)
-- Filterable by Launchpads (ie. https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/launchpads/all.md)
+- Filterable by Launchpads (ie. https://github.com/r-spacex/SpaceX-API/blob/master/docs/launchpads/v4/all.md)
 - Clicking on a launch opens a view (eg. new page, modal, you pick) that shows more about the launch. Specifically details, success, and links to presskit and webcast
